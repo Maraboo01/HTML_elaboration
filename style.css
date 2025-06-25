@@ -1,0 +1,15 @@
+.angry{
+width:400px;
+height: 250px;
+}
+
+.empty_circle {
+margin-left: 15px;
+}
+.empty_circle::marker {
+content: '⚬';
+}
+.jQueryImg{
+    width: 300px;
+    height: 200px; ;
+}
